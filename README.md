@@ -7,12 +7,12 @@ Data analysis project completed using Pandas and Matplotlib to analyze and answe
 The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 Differrent tasks are completed as following
 
-Data Cleaning Process
+**Data Cleaning Process**
   - Drop NaN values from DataFrame
   - Removing rows based on a condition
   - Change the type of columns (to_numeric, to_datetime, astype)
 
-Data Exploration
+**Data Exploration**
 
 There are five high level business questions related to the data
    - What was the best month for sales? How much was earned that month?
