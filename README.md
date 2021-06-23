@@ -32,10 +32,10 @@ Different pandas and matplotlib methods are used to completed to answer these qu
 
 
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q1BestMonth.png?raw=true"> Best Month for Sales |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q2CityMostSold.png?raw=true"> The City Sold the Most Product | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q3BestTime.png?raw=true"> Best Time to Display Ads |
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q4ProductSoldTogether.png?raw=true"> Most often Sold Together Products  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q5MostProductSold.png?raw=true"> Most Sold Product ||
 
+
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q1BestMonth.png?raw=true"> Best Month for Sales |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q2CityMostSold.png?raw=true"> The City Sold the Most Product | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q3BestTime.png?raw=true"> Best Time to Display Ads |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q4ProductSoldTogether.png?raw=true"> Most often Sold Together Products  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Sales-Analysis-Python/blob/main/Images/Q5MostProductSold.png?raw=true"> Most Sold Product |
 
 
